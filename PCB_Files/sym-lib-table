@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "Fib_PCB-altium-import")(type "KiCad")(uri "${KIPRJMOD}/Fib_PCB-altium-import.kicad_sym")(options "")(descr ""))
+)
