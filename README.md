@@ -1,6 +1,8 @@
-# Fiber Optic Based Signal Replicator
+# Fiber Optic Based Signal Extender
 
 A high-speed hardware system designed to transmit and replicate electrical signals over long distances using fiber optics with minimal latency.
+
+<img src="Photos/FinishedBoard.jpg" width="500" height="500" />
 
 ## Overview
 
@@ -23,24 +25,18 @@ The design demonstrates a full end-to-end communication system without electrica
 
 Fiber Optic Board mounted on top of a motor controller board.
 
-<img src="Photos/FinishedBoard.jpg" width="500" height="500" />
 
 Half-Assembled Fiber Optic Board
 
 <img src="Photos/FinishedBoardoFiberOpt.jpg" width="700" height="400" />
 
 Schematic
-![Schematic](Photos/Fib_PCBSchematic.png)
+
+<img src="Photos/Fib_PCBSchematic.png" width="1000" height="600" />
 
 Layout
-![Layout](Photos/3dViewKiCadTop.png)
 
-> 📸 *Replace these image filenames with your actual photo filenames in the `photos/` directory.*
+<img src="Photos/3dViewKiCadTop.png" width="900" height="750" />
 
-## Files
-
-- `schematics/` — Schematic design files
-- `layout/` — PCB layout (Gerbers, board files)
-- `bom/` — Bill of Materials
-- `firmware/` — Embedded code for STM32
-- `photos/` — Assembly and demo images
+## Poster Describing Project
+![Poster](Photos/Final%20Poster.png)
