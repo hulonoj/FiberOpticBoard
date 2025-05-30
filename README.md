@@ -11,7 +11,7 @@ This project consists of two custom PCB systems designed for high-speed signal r
 - **Transmitter/Receiver Board:** FPGA-based PCB for protocol-agnostic electrical signal replication over fiber with ~30 ns latency.
 - **Motor Controller Board:** STM32-based H-Bridge driver interfaced via I2C through the fiber optic system.
 
-The design demonstrates a full end-to-end communication system without electrical coupling, ideal for applications where noise isolation or long-distance communication is required.
+The design demonstrates a full end-to-end communication system without electrical coupling, ideal for applications where noise isolation or long-distance communication is required. This was my capstone project for my Advanced Embedded Systems course at the University of Michigan, and was worked on by a team of five. I contributed heavily and mainly to the hardware development and testing, while collaborating closely with teammates on software and system integration and validation.
 
 ## Features
 
